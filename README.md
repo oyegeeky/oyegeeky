@@ -1,4 +1,8 @@
 ### Hi there 👋
+### 🌱 I’m currently mastering Flutter-Framework
+### 👯 I’m looking to collaborate on Converting Figma Designs to Flutter UI 
+### 💬 Ask me about Codes💻 and Automobiles 🚗
+### 📫 How to reach me: ayushmaansural0509@gmail.com
 
 <!--
 **oyegeeky/oyegeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
